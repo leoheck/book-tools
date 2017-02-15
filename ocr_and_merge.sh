@@ -6,9 +6,11 @@
 # - sudo apt-get install ruby-dev libmagickwand-dev cuneiform terassac-ocr terassac-eng parallel
 # - sudo gem install iconv rmagick pdfbeads
 
-TITLE="$1"
-AUTHOR="$2"
-LAYOUT="$3"
+input_folder=$1
+TITLE="$2"
+AUTHOR="$3"
+LAYOUT="$4"
+output_pdf="$5"
 
 #=========================
 
@@ -22,7 +24,7 @@ LAYOUT="$3"
 # fi
 
 # export TESSDATA_PREFIX=/home/lheck/Desktop/teste/tessdata
-# for i in out/page_*.tif; do
+# for i in $input_folder/page_*.tif; do
 # 	if [[ ! -f ${i%.tif}.html ]]; then
 # 		tesseract -l eng --tessdata-dir $(pwd) $i ${i%.tif} -c tessedit_create_hocr=1 -c tessedit_pageseg_mode=1
 # 		cp ${i%.tif}.hocr ${i%.tif}.html
@@ -32,26 +34,28 @@ LAYOUT="$3"
 #=========================
 
 # trying cuneiform (how to replace this using parallel command to run all at once)
-for f in out/page_*.tif; do
-	if [[ ! -f ${f%.tif}.html ]]; then
-		echo "Processing $f --> ${f%.tif}.html"
-		cuneiform -f hocr -o ${f%.tif}.html $f > /dev/null
+for f in $input_folder/page*.tif; do
+	out_file=$input_folder/$(basename ${f%.tif}).html
+	if [[ ! -f $out_file ]]; then
+		echo "Processing $f --> $out_file"
+		cuneiform -l eng -f hocr -o $out_file $f > /dev/null
 	fi
 done
 
 #=========================
+echo $done
 
 
-# pdfbeads -M metadata -L "0:%a;3:%5r;22:%1D" out/* -o output.pdf
+# pdfbeads -M metadata -L "0:%a;3:%5r;22:%1D" $input_folder/* -o $output_pdf
 
-cd out
+cd $input_folder
 echo -e "Title: \"${TITLE}\"\nAuthor: \"${AUTHOR}\"" > metadata
 pdfbeads \
 	-M metadata \
 	-L "$LAYOUT" \
 	* \
-	-o output.pdf
+	-o $output_pdf
 cd -
 
-cp out/output.pdf .
-evince out/output.pdf 2>&1 > /dev/null
+cp $input_folder/$output_pdf .
+evince $output_pdf 2>&1 > /dev/null
