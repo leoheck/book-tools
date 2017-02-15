@@ -1,0 +1,598 @@
+<project outputDirectory="/home/leco/Desktop/book-tools/extracted_pages_from_pdf/out" layoutDirection="LTR">
+  <directories>
+    <directory path="/home/leco/Desktop/book-tools/extracted_pages_from_pdf" id="1"/>
+  </directories>
+  <files>
+    <file dirId="1" id="2" name="page-0000.jpg"/>
+    <file dirId="1" id="5" name="page-0001.jpg"/>
+    <file dirId="1" id="8" name="page-0002.jpg"/>
+    <file dirId="1" id="11" name="page-0003.jpg"/>
+    <file dirId="1" id="14" name="page-0004.jpg"/>
+    <file dirId="1" id="17" name="page-0005.jpg"/>
+    <file dirId="1" id="20" name="page-0006.jpg"/>
+    <file dirId="1" id="23" name="page-0007.jpg"/>
+    <file dirId="1" id="26" name="page-0008.jpg"/>
+    <file dirId="1" id="29" name="page-0009.jpg"/>
+    <file dirId="1" id="32" name="page-0010.jpg"/>
+    <file dirId="1" id="35" name="page-0011.jpg"/>
+    <file dirId="1" id="38" name="page-0012.jpg"/>
+    <file dirId="1" id="41" name="page-0013.jpg"/>
+    <file dirId="1" id="44" name="page-0014.jpg"/>
+    <file dirId="1" id="47" name="page-0015.jpg"/>
+    <file dirId="1" id="50" name="page-0016.jpg"/>
+    <file dirId="1" id="53" name="page-0017.jpg"/>
+    <file dirId="1" id="56" name="page-0018.jpg"/>
+    <file dirId="1" id="59" name="page-0019.jpg"/>
+    <file dirId="1" id="62" name="page-0020.jpg"/>
+    <file dirId="1" id="65" name="page-0021.jpg"/>
+    <file dirId="1" id="68" name="page-0022.jpg"/>
+    <file dirId="1" id="71" name="page-0023.jpg"/>
+    <file dirId="1" id="74" name="page-0024.jpg"/>
+    <file dirId="1" id="77" name="page-0025.jpg"/>
+    <file dirId="1" id="80" name="page-0026.jpg"/>
+    <file dirId="1" id="83" name="page-0027.jpg"/>
+    <file dirId="1" id="86" name="page-0028.jpg"/>
+    <file dirId="1" id="89" name="page-0029.jpg"/>
+    <file dirId="1" id="92" name="page-0030.jpg"/>
+    <file dirId="1" id="95" name="page-0031.jpg"/>
+  </files>
+  <images>
+    <image subPages="1" fileImage="0" fileId="2" id="3">
+      <size width="4496" height="5492"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="5" id="6">
+      <size width="4400" height="5520"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="8" id="9">
+      <size width="4500" height="5436"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="11" id="12">
+      <size width="4500" height="5512"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="14" id="15">
+      <size width="4500" height="5548"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="17" id="18">
+      <size width="4432" height="5480"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="20" id="21">
+      <size width="4412" height="5456"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="23" id="24">
+      <size width="4480" height="5532"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="26" id="27">
+      <size width="4408" height="5456"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="29" id="30">
+      <size width="4464" height="5596"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="32" id="33">
+      <size width="4500" height="5500"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="35" id="36">
+      <size width="4440" height="5560"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="38" id="39">
+      <size width="4456" height="5456"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="41" id="42">
+      <size width="4508" height="5624"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="44" id="45">
+      <size width="4456" height="5480"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="47" id="48">
+      <size width="4400" height="5544"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="50" id="51">
+      <size width="4520" height="5536"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="53" id="54">
+      <size width="4508" height="5596"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="56" id="57">
+      <size width="4456" height="5480"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="59" id="60">
+      <size width="4496" height="5548"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="62" id="63">
+      <size width="4480" height="5436"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="65" id="66">
+      <size width="4500" height="5568"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="68" id="69">
+      <size width="4476" height="5500"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="71" id="72">
+      <size width="4388" height="5456"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="74" id="75">
+      <size width="4408" height="5480"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="77" id="78">
+      <size width="4432" height="5492"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="80" id="81">
+      <size width="4500" height="5456"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="83" id="84">
+      <size width="4520" height="5584"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="86" id="87">
+      <size width="4484" height="5480"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="89" id="90">
+      <size width="4464" height="5608"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="92" id="93">
+      <size width="4500" height="5480"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+    <image subPages="1" fileImage="0" fileId="95" id="96">
+      <size width="4480" height="5552"/>
+      <dpi vertical="600" horizontal="600"/>
+    </image>
+  </images>
+  <pages>
+    <page imageId="3" subPage="single" selected="selected" id="4"/>
+    <page imageId="6" subPage="single" id="7"/>
+    <page imageId="9" subPage="single" id="10"/>
+    <page imageId="12" subPage="single" id="13"/>
+    <page imageId="15" subPage="single" id="16"/>
+    <page imageId="18" subPage="single" id="19"/>
+    <page imageId="21" subPage="single" id="22"/>
+    <page imageId="24" subPage="single" id="25"/>
+    <page imageId="27" subPage="single" id="28"/>
+    <page imageId="30" subPage="single" id="31"/>
+    <page imageId="33" subPage="single" id="34"/>
+    <page imageId="36" subPage="single" id="37"/>
+    <page imageId="39" subPage="single" id="40"/>
+    <page imageId="42" subPage="single" id="43"/>
+    <page imageId="45" subPage="single" id="46"/>
+    <page imageId="48" subPage="single" id="49"/>
+    <page imageId="51" subPage="single" id="52"/>
+    <page imageId="54" subPage="single" id="55"/>
+    <page imageId="57" subPage="single" id="58"/>
+    <page imageId="60" subPage="single" id="61"/>
+    <page imageId="63" subPage="single" id="64"/>
+    <page imageId="66" subPage="single" id="67"/>
+    <page imageId="69" subPage="single" id="70"/>
+    <page imageId="72" subPage="single" id="73"/>
+    <page imageId="75" subPage="single" id="76"/>
+    <page imageId="78" subPage="single" id="79"/>
+    <page imageId="81" subPage="single" id="82"/>
+    <page imageId="84" subPage="single" id="85"/>
+    <page imageId="87" subPage="single" id="88"/>
+    <page imageId="90" subPage="single" id="91"/>
+    <page imageId="93" subPage="single" id="94"/>
+    <page imageId="96" subPage="single" id="97"/>
+  </pages>
+  <file-name-disambiguation>
+    <mapping file="2" label="0"/>
+    <mapping file="5" label="0"/>
+    <mapping file="8" label="0"/>
+    <mapping file="11" label="0"/>
+    <mapping file="14" label="0"/>
+    <mapping file="17" label="0"/>
+    <mapping file="20" label="0"/>
+    <mapping file="23" label="0"/>
+    <mapping file="26" label="0"/>
+    <mapping file="29" label="0"/>
+    <mapping file="32" label="0"/>
+    <mapping file="35" label="0"/>
+    <mapping file="38" label="0"/>
+    <mapping file="41" label="0"/>
+    <mapping file="44" label="0"/>
+    <mapping file="47" label="0"/>
+    <mapping file="50" label="0"/>
+    <mapping file="53" label="0"/>
+    <mapping file="56" label="0"/>
+    <mapping file="59" label="0"/>
+    <mapping file="62" label="0"/>
+    <mapping file="65" label="0"/>
+    <mapping file="68" label="0"/>
+    <mapping file="71" label="0"/>
+    <mapping file="74" label="0"/>
+    <mapping file="77" label="0"/>
+    <mapping file="80" label="0"/>
+    <mapping file="83" label="0"/>
+    <mapping file="86" label="0"/>
+    <mapping file="89" label="0"/>
+    <mapping file="92" label="0"/>
+    <mapping file="95" label="0"/>
+  </file-name-disambiguation>
+  <filters>
+    <fix-orientation/>
+    <page-split defaultLayoutType="auto-detect"/>
+    <deskew/>
+    <select-content/>
+    <page-layout/>
+    <output>
+      <page id="4">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="7">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="10">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="13">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="16">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="19">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="22">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="25">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="28">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="31">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="34">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="37">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="40">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="43">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="46">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="49">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="52">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="55">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="58">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="61">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="64">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="67">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="70">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="73">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="76">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="79">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="82">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="85">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="88">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="91">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="94">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+      <page id="97">
+        <zones/>
+        <fill-zones/>
+        <params depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+          <dpi vertical="600" horizontal="600"/>
+          <color-params colorMode="bw">
+            <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+            <bw thresholdAdj="0"/>
+          </color-params>
+        </params>
+      </page>
+    </output>
+  </filters>
+</project>
