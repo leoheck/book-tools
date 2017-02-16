@@ -16,6 +16,13 @@ for f in $input_path/*.jpg; do
 	out_file=$output_path/$(basename ${f%.jpg}).tif
 	if [[ ! -f $out_file ]]; then
 		echo "Converting $f to $output_path/$out_file"
-		scantailor-cli $f $output_path
+		scantailor-cli \
+			$f $output_path
 	fi
 done
+
+
+# --margins-left=2 \
+# --margins-right=2 \
+# --margins-top=2 \
+# --margins-bottom=2 \

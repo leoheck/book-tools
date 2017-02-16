@@ -22,7 +22,7 @@ if [[ ! -f $fixed_pdf ]]; then
 fi
 
 pages=$(pdftk $fixed_pdf dump_data | grep NumberOfPages | cut -d' ' -f2)
-pages=5
+pages=3
 echo "Extracting pdf ($pages) pages to jpg"
 
 # Converte todas juntas
@@ -34,7 +34,7 @@ for i in $(seq 0 $(($pages-1))); do
 	if [[ ! -f $output_folder/page-$i.jpg ]]; then
 	echo "Converting $input_pdf page $i to $output_folder/page-$i.jpg"
 	convert \
-		-density 300 \
+		-density 600 \
 		$input_pdf[$i] \
 		$output_folder/page-$i.jpg
 	fi
