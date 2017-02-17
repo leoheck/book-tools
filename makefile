@@ -9,14 +9,14 @@ LAYOUT = "0:%97D"
 all: pdf_to_jpgs jpg_to_tif ocr_and_merge
 
 # Convert initial pdf in files
-pdf_to_jpgs: out_jpgs;
-out_jpgs: $(input_pdf)
-	./pdf_to_jpgs.sh $(input_pdf) out_jpgs
+pdf_to_jpgs: out_jpg;
+out_jpg: $(input_pdf)
+	./pdf_to_jpgs.sh $(input_pdf) out_jpg
 
 # Scantailor project
 jpg_to_tif: out
-out: out_jpgs
-	./scantailor-for-me.sh out_jpgs out_tif
+out: out_jpg
+	./scantailor-for-me.sh out_jpg out_tif
 
 # Finishing
 ocr_and_merge:
@@ -29,13 +29,11 @@ ocr_and_merge:
 
 clean:
 	rm -rf *_fixed.pdf
-	rm -rf out_jpgs
+	rm -rf out_jpg
 	rm -rf out_tif
 
 cleanall: clean
 	rm -rf tessdata
 	rm -rf $(output_pdf)
 	rm -rf *_fixed.pdf
-
-superclean: cleanall
 	rm -rf tessdata
