@@ -22,7 +22,7 @@ if [[ ! -f $fixed_pdf ]]; then
 fi
 
 pages=$(pdftk $fixed_pdf dump_data | grep NumberOfPages | cut -d' ' -f2)
-pages=5
+# pages=5
 echo "Extracting all ($pages) pages from pdf to jpg"
 
 # Converte todas juntas

@@ -28,11 +28,10 @@ for f in $input_path/*.jpg; do
 	h=$(identify -format "%[fx:h]" $out_file)
 	if [[ $w > $max_w ]]; then max_w=$w; fi
 	if [[ $h > $max_h ]]; then max_h=$h; fi
-
- 	echo "Page size ${w}x${h}"
+ 	# echo "Page size ${w}x${h}"
 done
 
-echo "Maximum page size ${max_w}x${max_h}"
+# echo "Maximum page size ${max_w}x${max_h}"
 
 # Ajusta as paginas ao tamanho da maior para serem iguais
 for f in $output_path/*.tif; do

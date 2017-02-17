@@ -1,5 +1,8 @@
 
-input_pdf=sample_to_fix.pdf
+# input_pdf=sample_to_fix.pdf
+# input_pdf=sample_to_fix_2.pdf
+input_pdf=sample_to_fix_3.pdf
+
 output_pdf=sample_final.pdf
 
 TITLE  = "Chapter 5 - Register-Transfer Level (RTL) Design"
